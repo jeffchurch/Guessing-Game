@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NumberGuess</string>
+    <string name="invalidGuess">Enter a number!</string>
+    <string name="tooHigh">Number is too high!</string>
+    <string name="tooLow">Number is too low!</string>
+    <string name="correct">Correct!</string>
+</resources>
